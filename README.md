@@ -19,12 +19,6 @@ Hi, I’m **Denis**, a passionate computer vision engineer solving real-world pr
 
 ---
 
-### 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/DenisV8)
-
----
-
 ### 💡 Motto
 
 > “Excess is the cause of many troubles. But what is born of abstinence?”
